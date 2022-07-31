@@ -10,7 +10,7 @@ My robotics projects include the followings: <br>
   I was responsible for implementing manipulation with Alex Pletta. <br>
 >3. Kinematics, Dynamics and Controls <br>
   Course projects on implementing various aspects of manipulation. <br>
-  A research project in modeling tree in mass-spring-damper system. <br>
+  A research project in modeling a tree in a mass-spring-damper system to observe its behavior against an external force such as wind. <br>
 >4. Computer Vision <br>
   Course projects on implementing computer vision algorithms and applications. <br>
 >5. Programming Familiarization <br>
