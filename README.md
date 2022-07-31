@@ -8,7 +8,7 @@ My robotics projects include the followings: <br>
   I will be responsible for perception in the Fall 22. <br>
 >2. Lego Kitting - using Franka Arm to autonomously conduct lego kitting<br>
   I was responsible for implementing manipulation with Alex Pletta. <br>
->3. Kinematics, Dynamics and Controls <br>
+>3. Kinematics, Dynamics, and Controls <br>
   Course projects on implementing various aspects of manipulation. <br>
   A research project in modeling a tree in a mass-spring-damper system to observe its behavior against an external force such as wind. <br>
 >4. Computer Vision <br>
