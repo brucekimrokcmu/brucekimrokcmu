@@ -13,5 +13,5 @@ My robotics projects include the followings: <br>
 >4. Computer Vision <br>
   Course projects on implementing computer vision algorithms and applications<br>
 >5. Programming Familiarization <br>
-  Implementing a basic AI algorithm in C++ to avoid missles autonomously<br>
+  Implementing a basic AI algorithm in C++ to avoid missiles autonomously<br>
   Familiarizing with ROS nodes, messages, services, communication systems, and various ROS packages
