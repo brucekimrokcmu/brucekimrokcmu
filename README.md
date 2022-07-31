@@ -1,5 +1,6 @@
 Hello, my name is Bruce Kim.<br>
 Currently, I am a robotics graduate student at Robotics Institute, Carnegie Mellon University.
+You can find my LinkedIn profile ![here](www.linkedin.com/in/brucekwangkyunkim)
 
 My robotics projects include the followings: <br>
 
