@@ -1,4 +1,4 @@
-Hello, my name is Bruce Kim (@brucekimrokcmu).<br>
+Hello, my name is Bruce Kim.<br>
 Currently, I am a robotics graduate student at Robotics Institute, Carnegie Mellon University.
 
 My robotics projects include the followings: <br>
