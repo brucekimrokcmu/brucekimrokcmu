@@ -1,6 +1,6 @@
 Hello, my name is Bruce Kim.<br>
 Currently, I am graduate student in Robotic Systems Development at [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/).<br>
-You can find my [LinkedIn profile here](https://www.linkedin.com/in/brucekwangkyunkim).<br>
+Before coming to CMU, I was an electric vehicle project manager at [LG Energy Solution](https://www.lgensol.com/en/index), and my main projects include launching Volvo's XC40 Recharge and Polestar 2. You can find my [LinkedIn profile here](https://www.linkedin.com/in/brucekwangkyunkim).<br>
 
 My robotics projects include the followings: <br>
 
