@@ -12,13 +12,14 @@ My robotics projects include the followings: <br>
   I will be responsible for perception in the Fall 22. <br>
 >2. Advanced Dynamics and Simulation
   Simulating advanced dynamics in robotics such as satellite in a orbit, attitude dynamics, ...etc)
->3. Lego Kitting - using Franka Arm to autonomously conduct lego kitting<br>
+>3. Deep learning - implementing PyTorch from scratch and using it for projects such as frame-level speech recognition, face recognition & verification, ...etc
+>4. Lego Kitting - using Franka Arm to autonomously conduct lego kitting<br>
   I was responsible for implementing manipulation with Alex Pletta. <br>
->4. Kinematics, Dynamics, and Controls <br>
+>5. Kinematics, Dynamics, and Controls <br>
   Course projects on implementing various aspects of manipulation. <br>
   A research project in modeling a tree in a mass-spring-damper system to observe its behavior against an external force such as wind. <br>
->5. Computer Vision <br>
+>6. Computer Vision <br>
   Course projects on implementing computer vision algorithms and applications. <br>
->6. Programming Familiarization <br>
+>7. Programming Familiarization <br>
   Implementing a basic AI algorithm in C++ to avoid missiles autonomously. <br>
   Familiarizing with ROS nodes, messages, services,communication systems, and various ROS packages.
