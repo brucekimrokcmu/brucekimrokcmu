@@ -1,5 +1,5 @@
 Hello, my name is Bruce Kim.<br>
-Currently, I am contributing to [SHARK-Turbine]([https://www.estat.tech/](https://github.com/nod-ai/SHARK-Turbine/). <br>
+Currently, I am contributing to [SHARK-Turbine]([https://github.com/nod-ai/SHARK-Turbine/]). <br>
 
 I studied Robotic Systems Development at [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/) in 2023.<br>
 
