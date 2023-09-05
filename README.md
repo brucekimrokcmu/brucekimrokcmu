@@ -1,5 +1,5 @@
 Hello, my name is Bruce Kim.<br>
-Currently, I am contributing to [SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine/). <br>
+Currently, I am contributing to [SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine/),a unified build of IREE, torch-mlir, and auxilliary support for providing a tight integration with PyTorch and other related frameworks.  <br>
 
 I studied Robotic Systems Development at [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/) in 2023.<br>
 
