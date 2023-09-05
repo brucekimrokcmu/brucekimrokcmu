@@ -12,7 +12,7 @@ My robotics projects include the followings: <br>
 
 >1. Vertical Farming Automation - Using a mobile manipulator to pollinate and harvest tomatoes<br>
   I was responsible for implementing manipulation and project management in the Spring 22. <br>
-  I am responsible for perception - detecting tomato clusters using YOLO V5 and TensorRT for real-time inference in the Fall 22. <br>
+  I was responsible for perception - detecting tomato clusters using YOLO V5 and TensorRT for real-time inference in the Fall 22. <br>
 >2. Advanced Dynamics and Simulation
   Simulating advanced dynamics in robotics such as satellite in a orbit, attitude dynamics, a glider, hanging cable (catenary) problem ...etc)
 >3. Planning - search-based method, sampling-based method
