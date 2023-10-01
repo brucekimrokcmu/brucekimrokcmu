@@ -15,8 +15,8 @@ My robotics projects include the followings: <br>
   I was responsible for perception - detecting tomato clusters using YOLO V5 and TensorRT for real-time inference in the Fall 22. <br>
 >2. Advanced Dynamics and Simulation
   Simulating advanced dynamics in robotics such as satellite in a orbit, attitude dynamics, a glider, hanging cable (catenary) problem ...etc)
->3. Planning - search-based method, sampling-based method
->4. Deep learning - Using PyTorch to implement Attention-based Speech Recognition, face recognition & verification, and reimplementing CLIPort for vision-language manipulation ...etc
+>3. Planning - A region-guided, sampling-based motion planner with dynamics and PID controller for non-holonomic robots on complex environments
+>4. Deep learning - Reimplementation of CLIPPort (Vision-Language Manipulation) from scratch by using PyTorch / Other works: Attention-based Speech Recognition, face recognition & verification
 >5. Lego Kitting - using Franka Arm to autonomously conduct lego kitting<br>
   I was responsible for implementing manipulation with Alex Pletta. <br>
 >6. Kinematics, Dynamics, and Controls <br>
