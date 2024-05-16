@@ -1,16 +1,19 @@
 Hello, my name is Bruce Kim.<br>
-I graduated with Master's of Science in Robotic Systems Development from [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/) in 2023.<br>
 
-Currently, I am working on Moss' tree nursery robot regarding its perception & machine learning stacks.
+I am an AI softwawre engineer at Samsung Semiconductor, and my works include accelerating STOA ML models on Samsung's SoC (NPU, GPU, CPU, DSP).
+
+I graduated with Master's of Science in Robotic Systems Development from [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/) in 2023.<br>
 
 In 2023, I contributed to [SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine/),a unified build of IREE, torch-mlir, and auxilliary support for providing a tight integration with PyTorch and other related frameworks.  <br>
 
-In 2022, I worked at [ESTAT ACTUATION](https://www.estat.tech/) as a Summer Intern, and designed a prototype of an exoskeleton ankle sprain prevent system.<br> 
-Before coming to CMU, I was an electric vehicle project manager at [LG Energy Solution](https://www.lgensol.com/en/index), and my main projects include launching batteries for [Volvo's XC40 Recharge](https://www.volvocars.com/us/cars/xc40-electric/) and [Polestar 2](https://www.polestar.com/us/polestar-2/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X2YTRw3fGUYTmroSBMY-6JWCbTPU8DjG0GSLgrXD-qB-aOnBHXe-UYaAqEvEALw_wcB).<br>
+In 2022, I contributed to [ESTAT ACTUATION](https://www.estat.tech/) by designing a prototype of an exoskeleton ankle sprain prevent system.<br> 
+
+Before 2021, I was an electric vehicle project manager at [LG Energy Solution](https://www.lgensol.com/en/index).
+My main projects include launching batteries for [Volvo's XC40 Recharge](https://www.volvocars.com/us/cars/xc40-electric/) and [Polestar 2](https://www.polestar.com/us/polestar-2/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X2YTRw3fGUYTmroSBMY-6JWCbTPU8DjG0GSLgrXD-qB-aOnBHXe-UYaAqEvEALw_wcB).<br>
 
 You can find my [LinkedIn profile here](https://www.linkedin.com/in/brucekwangkyunkim).<br>
 
-My robotics projects include the followings: <br>
+My AI/robotics projects include the followings: <br>
 
 >1. Vertical Farming Automation - Using a mobile manipulator to pollinate and harvest tomatoes<br>
   I was responsible for implementing manipulation and project management in the Spring 22. <br>
