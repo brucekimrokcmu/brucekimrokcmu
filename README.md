@@ -1,6 +1,6 @@
 Hello, my name is Bruce Kim.<br>
 
-I am an AI softwawre engineer at Samsung Semiconductor, and my works include accelerating STOA ML models on Samsung's SoC (NPU, GPU, CPU, DSP).
+I am an AI softwawre engineer at Samsung Semiconductor Inc., and my works include accelerating STOA ML models on Samsung's SoC (NPU, GPU, CPU, DSP).
 
 I graduated with Master's of Science in Robotic Systems Development from [Robotics Institute, Carnegie Mellon University](https://mrsd.ri.cmu.edu/) in 2023.<br>
 
